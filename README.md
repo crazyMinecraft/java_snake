@@ -1,0 +1,2 @@
+# java_snake
+大二学Java的时候制作的Java版本的snake
